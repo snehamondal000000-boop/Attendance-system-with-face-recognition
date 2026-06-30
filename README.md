@@ -1,10 +1,8 @@
  Attendance System with Face Recognition
-
 An AI-powered Smart Attendance Management System built using Python, OpenCV, and Face Recognition Technology.
 This project automatically detects and recognizes faces through a webcam and marks attendance in real time. 🚀
 
 ✨ Features
-
 ✅ Real-time face detection
 ✅ AI-based face recognition
 ✅ Automatic attendance marking
@@ -35,7 +33,6 @@ Attendance-system-with-face-recognition/
 └── README.md
 
 ⚙️ How It Works
-
 1️⃣ Capture face images of users 📸
 2️⃣ Train the model using stored face images 🧠
 3️⃣ Encode facial features 🔐
@@ -51,7 +48,6 @@ python train_model.py
 python recognize.py
 
 🌟 Future Improvements
-
 🔹 GUI using Tkinter
 🔹 Web App using Flask
 🔹 Database Integration
@@ -60,7 +56,6 @@ python recognize.py
 🔹 Mobile Application 📱
 
 🎯 Applications
-
 🏫 Smart Classroom Attendance
 🏢 Office Employee Attendance
 🔐 Secure Authentication Systems
